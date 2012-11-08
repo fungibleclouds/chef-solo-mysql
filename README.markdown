@@ -5,5 +5,12 @@ Inside cookbooks folder, you need to clone:
 * OpenSSL https://github.com/opscode-cookbooks/openssl
 * build-essential https://github.com/opscode-cookbooks/build-essential
 
+Get these submodules using
+
+    git submodule init
+    git submodule update
+	
+	
 http://vagrantup.com/v1/docs/troubleshooting.html
 http://www.cyberciti.biz/faq/howto-install-kernel-headers-package/
+
